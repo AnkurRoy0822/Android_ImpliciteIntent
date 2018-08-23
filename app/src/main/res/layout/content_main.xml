@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.jhumpi.implicite_intent.MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="8dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IMPLICITE INTENT"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+    <Button
+        android:id="@+id/MAPS"
+        android:text="MAPS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="process"/>
+    <Button
+        android:id="@+id/MARKET"
+        android:text="MAPS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="process"/>
+    <Button
+        android:id="@+id/E-MAIL"
+        android:text="MAPS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="process"/>
+
+</LinearLayout>

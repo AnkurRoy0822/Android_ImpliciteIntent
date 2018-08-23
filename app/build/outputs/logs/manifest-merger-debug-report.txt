@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe15213e6432d7fa70cb6e6609b13b8f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/30cca65956c63010bd70aa7b0667e386/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c52bbd44160feb24f0e6329a9b6e87c3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b477d558403c3e3def0a5df04ed57ac9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/46d166ff2206163b8048f05881872545/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0881acfad9f91fa057f36592abc16946/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e1042b1d9d9faf2d11341d909603570/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d0863c6c5fa4a66ced2005208b50598c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e2d38abd1f74d8ba2c39a93aeecbc3fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2a8c2d7d159faa4cd90f3c1e184291e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7fd479c9566fd3d325acfb20326f4732/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e613d05a49b13f5cfbe7aab62274fba1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5a663a6fcedd56d3bc7497fdc804f7b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/391de358eed6f7d6d673fc5ef6d100ad/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8d4066c21d7e9cc24af1914855911301/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1114f42eaa410dbca22cb55e100a49a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/62ab217f181a1ee5e02a80c1773956fe/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe15213e6432d7fa70cb6e6609b13b8f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe15213e6432d7fa70cb6e6609b13b8f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c52bbd44160feb24f0e6329a9b6e87c3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c52bbd44160feb24f0e6329a9b6e87c3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b477d558403c3e3def0a5df04ed57ac9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b477d558403c3e3def0a5df04ed57ac9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/46d166ff2206163b8048f05881872545/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/46d166ff2206163b8048f05881872545/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0881acfad9f91fa057f36592abc16946/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0881acfad9f91fa057f36592abc16946/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e1042b1d9d9faf2d11341d909603570/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e1042b1d9d9faf2d11341d909603570/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.jhumpi.implicite_intent.MainActivity
+ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe15213e6432d7fa70cb6e6609b13b8f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe15213e6432d7fa70cb6e6609b13b8f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/30cca65956c63010bd70aa7b0667e386/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/30cca65956c63010bd70aa7b0667e386/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c52bbd44160feb24f0e6329a9b6e87c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/c52bbd44160feb24f0e6329a9b6e87c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b477d558403c3e3def0a5df04ed57ac9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b477d558403c3e3def0a5df04ed57ac9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/46d166ff2206163b8048f05881872545/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/46d166ff2206163b8048f05881872545/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0881acfad9f91fa057f36592abc16946/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0881acfad9f91fa057f36592abc16946/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e1042b1d9d9faf2d11341d909603570/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e1042b1d9d9faf2d11341d909603570/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d0863c6c5fa4a66ced2005208b50598c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d0863c6c5fa4a66ced2005208b50598c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e2d38abd1f74d8ba2c39a93aeecbc3fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e2d38abd1f74d8ba2c39a93aeecbc3fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2a8c2d7d159faa4cd90f3c1e184291e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2a8c2d7d159faa4cd90f3c1e184291e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7fd479c9566fd3d325acfb20326f4732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7fd479c9566fd3d325acfb20326f4732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e613d05a49b13f5cfbe7aab62274fba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e613d05a49b13f5cfbe7aab62274fba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5a663a6fcedd56d3bc7497fdc804f7b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5a663a6fcedd56d3bc7497fdc804f7b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/391de358eed6f7d6d673fc5ef6d100ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/391de358eed6f7d6d673fc5ef6d100ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8d4066c21d7e9cc24af1914855911301/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/8d4066c21d7e9cc24af1914855911301/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1114f42eaa410dbca22cb55e100a49a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c1114f42eaa410dbca22cb55e100a49a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/62ab217f181a1ee5e02a80c1773956fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/62ab217f181a1ee5e02a80c1773956fe/AndroidManifest.xml:20:5-44
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe15213e6432d7fa70cb6e6609b13b8f/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+		ADDED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jhumpi/AndroidStudioProjects/Implicite_Intent/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe15213e6432d7fa70cb6e6609b13b8f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b477d558403c3e3def0a5df04ed57ac9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/b477d558403c3e3def0a5df04ed57ac9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/46d166ff2206163b8048f05881872545/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/46d166ff2206163b8048f05881872545/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0881acfad9f91fa057f36592abc16946/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0881acfad9f91fa057f36592abc16946/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e1042b1d9d9faf2d11341d909603570/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/5e1042b1d9d9faf2d11341d909603570/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe15213e6432d7fa70cb6e6609b13b8f/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/jhumpi/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fe15213e6432d7fa70cb6e6609b13b8f/AndroidManifest.xml:27:13-51
